@@ -1,2 +1,2 @@
-# Pong_Unreal
- Pong created in Unreal
+# Pong_Unreal_Course
+ Pong course repository.
